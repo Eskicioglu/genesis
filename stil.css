@@ -1,0 +1,220 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, img, ins, kbd, q, s, samp,
+small, strike, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, input, select, textarea, button,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+a {
+    text-decoration: none;
+}
+a img, :link img, :visited img {
+border: 0;
+}
+
+:focus {
+    outline: 0;
+}
+.clear {
+    clear: both;
+}
+
+.banner{
+width:%100px;  
+height:100px; 
+background:black;
+}
+.slider{
+width:%100px; 
+height:650px; 
+background:#C0C0C0;
+}
+
+.orta1{
+width:%100px; 
+height:200px; 
+background:#808080;
+}
+.orta2{
+width:%100px; 
+height:400px; 
+background:#008080;
+}
+.orta3{
+width:%100px; 
+height:400px; 
+background:#00FFFF;
+}
+.orta4{
+width:%100px; 
+height:260px; 
+background:#FFFFFF;
+}
+.footer{
+width:%100px; 
+height:500px; 
+background:#333;
+}
+.banner ul{
+	float:right;
+	margin-right:20px;
+}
+.logo{	
+	display:inline-block;
+	height:100px;
+	width:150px;
+	margin-left:100px;
+}
+.banner ul li{
+	list-style:none;
+	display:inline-block;
+	margin:0 30px;
+	line-height:90px;
+}
+.banner ul li a{
+	color:white;
+	text-decoration:none;
+	font-size:15px;
+	padding:6px 13px;
+}
+.banner ul li a.active,
+.banner ul li a:hover{
+	background:#333;
+	border-radius:13px;
+}
+.birincikutu{
+	width:250px;
+	height:200px;
+	background:white;
+    float:left;
+	margin-left:50px;
+}
+.ikincikutu{
+	width:250px;
+	height:200px;
+	background:white;
+	float:left;
+	margin-left:125px;
+}
+.ucuncukutu{
+	width:250px;
+	height:200px;
+	background:white;
+	float:left;
+	margin-left:125px;
+}
+.dorduncukutu{
+	width:250px;
+	height:200px;
+	background:white;
+	float:left;
+	margin-left:125px;
+}
+.oyunbir{
+	float:left;
+	height:400px; 
+	width:450px;
+	background:black;
+	margin-left:40px;
+}
+.oyunyazibir{
+	float:left;
+	height:350px;
+	width:930px;
+	background-color:gray;
+	margin:20px 30px;
+}
+.oyunyaziiki{
+	float:left;
+	height:350px;
+	width:930px;
+	background-color:gray;
+	margin:20px 30px;
+}
+.oyuniki{
+	float:left;
+	height:400px; 
+	width:450px;
+	background:black;
+	margin-right:40px;
+}
+.birinciyuvarlak{
+	width:250px;
+	height:250px;
+	background:#808080;
+    float:left;
+	margin-left:50px;
+	border-radius:100%;
+	margin-top:5px;
+	margin-bottom:5px;
+
+}
+.ikinciyuvarlak{
+	width:250px;
+	height:250px;
+	background:#808080;
+	float:left;
+	margin-left:125px;
+	border-radius:100%;
+	margin-bottom:5px;
+
+}
+.ucuncuyuvarlak{
+	width:250px;
+	height:250px;
+	background:#808080;
+	float:left;
+	margin-left:125px;
+	border-radius:100%;
+	margin-top:5px;
+	margin-bottom:5px;
+
+}
+.dorduncuyuvarlak{
+	width:250px;
+	height:250px;
+	background:#808080;
+	float:left;
+	margin-left:125px;
+	border-radius:100%;
+	margin-top:5px;
+	margin-bottom:5px;
+
+}
+
+
+
